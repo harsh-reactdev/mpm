@@ -13,8 +13,4 @@ Random Forest is an ensemble learning method that operates by constructing a mul
 - **No Scaling Required**: Unlike linear models, it doesn't care if temperatures are in hundreds and torque is in double digits.
 - **Feature Interaction**: Naturally captures interactions between features (like temperature and pressure).
 
-## How to Run
-```bash
-../venv/bin/python train_rf.py
-```
 Check the `results/` folder for metrics and visualization.

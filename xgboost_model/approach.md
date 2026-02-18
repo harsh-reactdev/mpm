@@ -13,8 +13,4 @@ XGBoost (Extreme Gradient Boosting) is a powerful implementation of gradient boo
 - **Accuracy**: Often provides the highest predictive performance for tabular data.
 - **Feature Importance**: Inherently provides ranking of sensors that contribute most to the decision.
 
-## How to Run
-```bash
-../venv/bin/python train_xgboost.py
-```
 Check the `results/` folder for the confusion matrix and metrics.

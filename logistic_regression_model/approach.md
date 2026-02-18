@@ -13,8 +13,4 @@ Logistic Regression is a fundamental linear classification algorithm. While simp
 - **Baseline**: Useful to see if a simple linear boundary can separate failures from normal operation.
 - **Probability Estimation**: Provides well-calibrated probabilities of the output class.
 
-## How to Run
-```bash
-../venv/bin/python train_lr.py
-```
 Check the `results/` folder for metrics and the confusion matrix.
